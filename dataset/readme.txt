@@ -1,1 +1,1 @@
-Add the data obtained from the collection.
+Add the data obtained from the data collection.
