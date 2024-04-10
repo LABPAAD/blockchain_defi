@@ -8,4 +8,4 @@ A sandwich attack is a type of attack that exploits the ordering of transactions
 This repository also includes the data that was collected and evaluated during the study.
 Transaction data was collected during the period from January to December 2023.
 
-
+Details of this project were presented in the following article: https://pt.overleaf.com/project/65a3131446635fc4ebf94cbb (SBRC2024)
