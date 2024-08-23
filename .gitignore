@@ -79,6 +79,9 @@ obj/
 _ReSharper*/
 [Tt]est[Rr]esult*
 .vs/
+.env
 #Nuget packages folder
 packages/
 /res/*.h
+node_modules/
+.env
